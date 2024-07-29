@@ -6,8 +6,8 @@ Here are just a few of the reasons why so many Manitoba organizations choose Gol
 Original Site:
 https://www.goldmps.com/home
 
-##Configation Include
+##Configuration Include
 * Graphic Update
-*  Bootstrup form intagration
+*  Bootstrup form integration
 *  Java Scripts Implemantation
 
